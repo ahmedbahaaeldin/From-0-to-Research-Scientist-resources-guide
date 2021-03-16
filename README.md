@@ -61,7 +61,7 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
 [Mathematics for Machine Learning Book: Chapter 6][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50) | ![50%](https://progress-bar.dev/50)
  [Probalistic Graphical Models CMU Advanced][cmuprob] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50) | ![100%](https://progress-bar.dev/100)
 [Probalistic Graphical Models Stanford Daphne Advanced][stanfordprobgraph] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![75%](https://progress-bar.dev/50) | ![100%](https://progress-bar.dev/100)
- [A First Course In Probability Book by Ross][probBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![75%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/50)
+ [A First Course In Probability Book by Ross][probBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![75%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/50/?title=Deep-Learning)
   <!--END_SECTION:activity-->
 
 </details>
@@ -73,11 +73,11 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
 Resource                    | Difficulty     | Relevance to NLP | Relevance to Deep Learning
 ------------------------- | --------------- | ---- | ----------------------
 [Essence of Calculus by 3Blue1Brown][bluecal]| <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span></div><span>☆</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![Deep Learning](https://progress-bar.dev/100)
-[Single Variable Calculus MIT 2007][single07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
-[Strang's Overview of Calculus][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
-[Single Variable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
-[MultiVariable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
-[Princeton University Multivariable Calculus 2013][princeton]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
+[Single Variable Calculus MIT 2007][single07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><<span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
+[Strang's Overview of Calculus][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
+[Single Variable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
+[MultiVariable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
+[Princeton University Multivariable Calculus 2013][princeton]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
 [Mathematics for Machine Learning Book: Chapter 5][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![Deep Learning](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/50)
 
 
