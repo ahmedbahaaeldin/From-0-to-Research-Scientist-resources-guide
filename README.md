@@ -26,7 +26,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 
 ## Mathematical Foundations:
 <details>
-  <summary>⚗️ Linear Algebra:</summary>
+  <summary>:infinity: Linear Algebra:</summary>
   
 <!--START_SECTION:activity-->  
 ### Linear Algebra:
