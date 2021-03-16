@@ -29,11 +29,13 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 ## Mathematical Foundations:
 The Mathematical Foundation part is for all Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision and so on. AI is heavily math-theory based so a solid foundation is essential.
 
+### Linear Algebra
+
 <details>
-  <summary>:infinity: Linear Algebra:</summary>
+  <summary>:infinity: Resources:</summary>
   
 <!--START_SECTION:activity-->  
-### Linear Algebra:
+
   This branch of Math is crucial for understanding the mechanism of Neural Networks which are the norm for NLP methodologies in nowadays State-of-The-Art.
 
 Resource                    | Difficulty     | Relevance 
@@ -49,11 +51,13 @@ Resource                    | Difficulty     | Relevance
 
 </details>
 
+### Probability
+
 <details>
-  <summary>:atom: Probability:</summary>
+  <summary>:atom: Resources: </summary>
   
 <!--START_SECTION:activity-->  
-### Probability
+
 Most of Natural Language Processing and Machine Learning Algorithms are based on Probability theory. So this branch is extremely important for grasping how old methods work.
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
@@ -91,10 +95,12 @@ Resource                    | Difficulty     | Relevance
 
 </details>
 
-<details>
-  <summary> 📉 Optimization Theory:</summary>
-  
  ### Optimization Theory
+ 
+<details>
+  <summary> 📉 Resources:</summary>
+  
+
 <!--START_SECTION:activity--> 
 -Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | --------------------------
