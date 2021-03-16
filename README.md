@@ -37,7 +37,10 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
 [3Blue1Brown Essence of Linear Algebra][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
 [Mathematics For Machine Learning Specialization: Linear Algebra][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
   
+<!--START_SECTION:activity-->  
 ### Probability:
 Most of Natural Language Processing and Machine Learning Algorithms are based on Probability theory. So this branch is extremely important for grasping how old methods work.
 Resource                    | Difficulty     | Relevance to NLP | Relevance to Deep Learning
@@ -49,7 +52,9 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
  [Probalistic Graphical Models CMU Advanced][cmuprob] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50) | ![100%](https://progress-bar.dev/100)
 [Probalistic Graphical Models Stanford Daphne Advanced][stanfordprobgraph] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![75%](https://progress-bar.dev/50) | ![100%](https://progress-bar.dev/100)
  [A First Course In Probability Book by Ross][probBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![75%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/50)
-  
+  <!--END_SECTION:activity-->
+
+</details>
 - Calculus
 - Optimization Theory
 - Information Theory
