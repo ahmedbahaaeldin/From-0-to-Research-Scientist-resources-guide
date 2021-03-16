@@ -38,13 +38,13 @@ The Mathematical Foundation part is for all Artificial Intelligence branches suc
 
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
-[MIT Gilbert Strang 2005 Linear Algebra][gilbertStrang] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![75%](https://progress-bar.dev/75/?title=Computer+Vision&color=ff0101)
-[Linear Algebra 4th Edition by Friedberg][Friedberg] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[Mathematics for Machine Learning Book: Chapter 2][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000)
-[James Hamblin Awesome Lecture Series][James_Hamblin] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[3Blue1Brown Essence of Linear Algebra][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![25%](https://progress-bar.dev/25/?title=Machine+Learning+Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[Mathematics For Machine Learning Specialization: Linear Algebra][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[Matrix Methods for Linear Algebra for Gilber Strang UPDATED!][matrixmethods] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>|  ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[MIT Gilbert Strang 2005 Linear Algebra 🎥][gilbertStrang] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![75%](https://progress-bar.dev/75/?title=Computer+Vision&color=ff0101)
+[Linear Algebra 4th Edition by Friedberg 📘][Friedberg] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[Mathematics for Machine Learning Book: Chapter 2 📘][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000)
+[James Hamblin Awesome Lecture Series 🎥][James_Hamblin] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[3Blue1Brown Essence of Linear Algebra 🎥][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![25%](https://progress-bar.dev/25/?title=Machine+Learning+Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[Mathematics For Machine Learning Specialization: Linear Algebra 🎥][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[Matrix Methods for Linear Algebra for Gilber Strang UPDATED! 🎥][matrixmethods] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>|  ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
   <!--END_SECTION:activity-->
 
 </details>
@@ -57,13 +57,13 @@ Resource                    | Difficulty     | Relevance
 Most of Natural Language Processing and Machine Learning Algorithms are based on Probability theory. So this branch is extremely important for grasping how old methods work.
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
-[Harvard Probability and Statistics Course][harvard] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
-[MIT Probability Course 2011 Lecture videos][mitprob11] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![75%](https://progress-bar.dev/75/?title=Natural+Language+Processing&color=ff69b4) 
-[MIT Probability Course 2018 short videos UPDATED!][mitprob18] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆<span>☆</span></div>| ![25%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
-[Mathematics for Machine Learning Book: Chapter 6][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Natural+Language+Processing&color=ff69b4) 
- [Probalistic Graphical Models CMU Advanced][cmuprob] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
-[Probalistic Graphical Models Stanford Daphne Advanced][stanfordprobgraph] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![25%](https://progress-bar.dev/25/?title=Natural+Language+Processing&color=ff69b4) 
- [A First Course In Probability Book by Ross][probBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
+[Harvard Probability and Statistics Course 🎥][harvard] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
+[MIT Probability Course 2011 Lecture videos 🎥][mitprob11] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![75%](https://progress-bar.dev/75/?title=Natural+Language+Processing&color=ff69b4) 
+[MIT Probability Course 2018 short videos UPDATED! 🎥][mitprob18] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆<span>☆</span></div>| ![25%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
+[Mathematics for Machine Learning Book: Chapter 6 📘][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Natural+Language+Processing&color=ff69b4) 
+ [Probalistic Graphical Models CMU Advanced 🎥][cmuprob] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
+[Probalistic Graphical Models Stanford Daphne Advanced 🎥][stanfordprobgraph] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![25%](https://progress-bar.dev/25/?title=Natural+Language+Processing&color=ff69b4) 
+ [A First Course In Probability Book by Ross 📘][probBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
   <!--END_SECTION:activity-->
 
 </details>
@@ -74,23 +74,37 @@ Resource                    | Difficulty     | Relevance
 <!--START_SECTION:activity--> 
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | --------------------------
-[Essence of Calculus by 3Blue1Brown][bluecal]| <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
-[Single Variable Calculus MIT 2007][single07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
-[Strang's Overview of Calculus][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[MultiVariable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[Princeton University Multivariable Calculus 2013][princeton]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[Calculus Book by Stewart][calcbok]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) ![25%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
-[Mathematics for Machine Learning Book: Chapter 5][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
+[Essence of Calculus by 3Blue1Brown🎥][bluecal]| <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
+[Single Variable Calculus MIT 2007🎥][single07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
+[Strang's Overview of Calculus🎥][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[MultiVariable Calculus MIT 2007🎥][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[Princeton University Multivariable Calculus 2013🎥][princeton]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[Calculus Book by Stewart 📘][calcbok]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) ![25%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
+[Mathematics for Machine Learning Book: Chapter 5 📘][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
 
 
  <!--END_SECTION:activity-->
 
 </details>
-- Optimization Theory
-- Information Theory
-- Discrete Mathematics
-- Statistics
 
+<details>
+  <summary> 📉 Optimization Theory:</summary>
+  
+<!--START_SECTION:activity--> 
+-Resource                    | Difficulty     | Relevance 
+------------------------- | --------------- | --------------------------
+[CMU optimization course 2018🎥][cmuopti]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) ![25%](https://progress-bar.dev/25/?title=Machine-Learning-Algorithms&color=000000) 
+[CMU Advanced optimization course🎥][cmuadvopti]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) 
+[Stanford Famous optimization course 🎥][stanfordopti]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) 
+[Boyd Convex Optimization Book 📕][boyd] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) 
+ <!--END_SECTION:activity-->
+
+</details>
+
+[boyd]: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+[cmuopti]: https://www.youtube.com/watch?v=Di9f47LAzHQ&list=PLRPU00LaonXQ27RBcq6jFJnyIbGw5azOI
+[cmuadvopti]: https://www.youtube.com/watch?v=yBO4E1FARaA&list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d
+[stanfordopti]: https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622
 [calcbok]: http://index-of.co.uk/Mathematics/Calculus%20-%20J.%20Stewart.pdf
 [princeton]: https://www.youtube.com/watch?v=uDByROsGzuk&list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28
 [multi07]: https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38
