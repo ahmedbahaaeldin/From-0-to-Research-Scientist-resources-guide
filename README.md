@@ -127,27 +127,29 @@ One of the major breakthroughs in the field of intersection between Artificial I
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
-[UCL Deepmind Deep Learning][ucl2020] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Advanced Talks by Deep Learning Pioneers][talkie] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Stanford Autumn 2018 Deep Learning Lectures][18standeep] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[FAU Deep Learning 2020 Series][fau] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-[CMU Deep Learning course 2020][cmudeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-[Stanford Convolutional Neural Network 2017][stanfcnn] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Oxford Deep Learning Awesome Lectures 2015][oxforddeep] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Stanford NLP with Deep Learning 2019][stanfordnlp2019] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Deep Learning from Probability and Statistics POV][alideep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[Advanced Deep Learning UCL 2017 course + Reinforcement Learning][ucladvrein] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Deep Learning UC Berkley 2020 Course][berkley2020] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[NYU Deep Learning with Pytorch hands on][DeepPy] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Classic Jeoffrey Hinton Old course OUTDATED][jeoff] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Pieter Abdeel Deep Unsupervised Learning][abdeeladv] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Hugo Larochelle Deep Learning series][hugodeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[Deep Learning Book Explanation Series][deepbookexp] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Deep Learning Introduction by Durham University][Durham] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[UCL Deepmind Deep Learning 🎥][ucl2020] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Advanced Talks by Deep Learning Pioneers 🎥][talkie] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Stanford Autumn 2018 Deep Learning Lectures 🎥][18standeep] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[FAU Deep Learning 2020 Series 🎥][fau] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[CMU Deep Learning course 2020 🎥][cmudeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[Stanford Convolutional Neural Network 2017 🎥][stanfcnn] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Oxford Deep Learning Awesome Lectures 2015 🎥][oxforddeep] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Stanford NLP with Deep Learning 2019 🎥][stanfordnlp2019] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Deep Learning from Probability and Statistics POV 🎥][alideep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[Advanced Deep Learning UCL 2017 course + Reinforcement Learning 🎥][ucladvrein] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Deep Learning UC Berkley 2020 Course 🎥][berkley2020] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[NYU Deep Learning with Pytorch hands on 🎥][DeepPy] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Classic Jeoffrey Hinton Old course OUTDATED 🎥][jeoff] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Pieter Abdeel Deep Unsupervised Learning 🎥][abdeeladv] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Hugo Larochelle Deep Learning series 🎥][hugodeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[Deep Learning Book Explanation Series 🎥][deepbookexp] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Deep Learning Introduction by Durham University 🎥][Durham] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[Fast.ai Practical Deep Learning 🎥][fast1] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[Fast.ai Deep Learning From Foundations 🎥][fast2] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 
 
-
-
+[fast2]: https://course19.fast.ai/part2
+[fast1]: https://course.fast.ai/
 [abdeeladv]: https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP
 [durham]: https://www.youtube.com/watch?v=s2uXPz3wyCk&list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57
 [deepbookexp]: https://www.youtube.com/watch?v=vi7lACKOUao&list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b
