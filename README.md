@@ -28,11 +28,13 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 
 Resource                    | Difficulty     | Relevance to Natural Language Processing | Relevance to Deep Learning
 ------------------------- | --------------- | ---------------- | ---------------------------
-[MIT Gilbert Strang 2005 Linear Algebra][gilbertStrang] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50) | ![100%](https://progress-bar.dev/100)
+[MIT Gilbert Strang 2005 Linear Algebra][gilbertStrang] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>| ![25%](https://progress-bar.dev/25) | ![100%](https://progress-bar.dev/100)
 [Linear Algebra 4th Edition by Friedberg][Friedberg] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![25%](https://progress-bar.dev/25) | ![100%](https://progress-bar.dev/100)
+[Mathematics for Machine Learning Book: Chapter 2][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![25%](https://progress-bar.dev/25) | ![100%](https://progress-bar.dev/100)
+[James Hamblin Awesome Lecture Series][James_Hamblin] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
+[3Blue1Brown Essence of Linear Algebra][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
+[Mathematics For Machine Learning Specialization: Linear Algebra][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
 
-  <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>
-  <div class="star-ratings-bottom"><span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>
   
 - Probability
 - Calculus
@@ -41,6 +43,9 @@ Resource                    | Difficulty     | Relevance to Natural Language Pro
 - Discrete Mathematics
 - Statistics
 
-
+[MMLLA]: https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
+[3blue]: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 [gilbertStrang]: https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D
 [Friedberg]: https://npqke7p41z.pdcdn2.xyz/dl2.php?id=187502855&h=fe4fe4abfa10c9c6a51456cdff771ba1&u=cache&ext=pdf&n=Linear%20algebra%204th%20edition
+[mmlbook]: https://mml-book.github.io/book/mml-book.pdf
+[James_Hamblin]: https://www.youtube.com/watch?v=HAoL5fPmgrw&list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86
