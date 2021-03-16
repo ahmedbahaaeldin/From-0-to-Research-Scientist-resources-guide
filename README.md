@@ -67,9 +67,11 @@ Resource                    | Difficulty     | Relevance
   <!--END_SECTION:activity-->
 
 </details>
+
 ### Calculus
+
 <details>
-  <summary>:triangular_ruler: ### Calculus:</summary>
+  <summary>:triangular_ruler: Resources :</summary>
   
 
 
