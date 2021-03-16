@@ -121,9 +121,9 @@ Resource                    | Difficulty     | Relevance
 
 One of the major breakthroughs in the field of intersection between Artificial Intelligence and Computer Science. It lead to countless advances in technology and considered the standard way to do Artificial Intelligence.
 
-Resource                    | Difficulty 
+Resource                    | Difficulty Level 
 ------------------------- | ---------------
-|![](https://progress-bar.dev/100/?title=Introductory) 
+|!![Introductory](https://img.shields.io/badge/Introductory-Level-brightgreen.svg)
 
 [boyd]: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 [cmuopti]: https://www.youtube.com/watch?v=Di9f47LAzHQ&list=PLRPU00LaonXQ27RBcq6jFJnyIbGw5azOI
