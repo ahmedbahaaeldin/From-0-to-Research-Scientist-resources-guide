@@ -6,7 +6,7 @@
 
 
   
-  **From Zero to Natural Language Processing Engineer full resources guide.**
+  **From Zero to Natural Language Processing Engineer full resources guide. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
   
   
   ![NLP Guide](https://img.shields.io/badge/NLP-Guide-brightgreen.svg)
@@ -43,14 +43,22 @@ Most of Natural Language Processing and Machine Learning Algorithms are based on
 Resource                    | Difficulty     | Relevance to NLP | Relevance to Deep Learning
 ------------------------- | --------------- | ---- | ---------------------------
 [Harvard Probability and Statistics Course][harvard] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![100%](https://progress-bar.dev/100) | ![75%](https://progress-bar.dev/75)
-[MIT Probability Course 2011][mitprob11] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75) | ![75%](https://progress-bar.dev/75)
-[MIT Probability Course 2018][mitprob18] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆<span>☆</span></div>| ![75%](https://progress-bar.dev/75) | ![75%](https://progress-bar.dev/75)
+[MIT Probability Course 2011 Lecture videos][mitprob11] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75) | ![75%](https://progress-bar.dev/75)
+[MIT Probability Course 2018 short videos UPDATED!][mitprob18] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆<span>☆</span></div>| ![75%](https://progress-bar.dev/75) | ![75%](https://progress-bar.dev/75)
+[Mathematics for Machine Learning Book: Chapter 6][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50) | ![50%](https://progress-bar.dev/50)
+ [Probalistic Graphical Models CMU Advanced][cmuprob] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50) | ![100%](https://progress-bar.dev/100)
+[Probalistic Graphical Models Stanford Daphne Advanced][stanfordprobgraph] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![75%](https://progress-bar.dev/50) | ![100%](https://progress-bar.dev/100)
+ [A First Course In Probability Book by Ross][probBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![75%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/50)
+  
 - Calculus
 - Optimization Theory
 - Information Theory
 - Discrete Mathematics
 - Statistics
 
+[probBook]: http://www.seyedkalali.com/wp-content/uploads/2016/11/A-First-Course-in-Probability-8th-ed.-Sheldon-Ross.pdf
+[stanfordprobgraph]: https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i
+[cmuprob]: https://www.youtube.com/watch?v=oqvdH_8lmCA&list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn
 [mitprob18]: https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
 [mitprob11]: https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
 [harvard]: https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
