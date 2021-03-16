@@ -30,6 +30,13 @@ Resource                    | Difficulty     | Prerequisites
 ------------------------- | --------------- | ----------------
 MIT Gilbert Strang 2005 Linear Algebra | ![50%](https://progress-bar.dev/100) | as
 
+<div class="rating" data-rate="1">
+  <i class="star-1">★</i>
+  <i class="star-2">★</i>
+  <i class="star-3">★</i>
+  <i class="star-4">★</i>
+  <i class="star-5">★</i>
+</div>
 - Probability
 - Calculus
 - Optimization Theory
