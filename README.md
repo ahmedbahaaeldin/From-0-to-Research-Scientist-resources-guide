@@ -23,14 +23,19 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 - [Tutorials](#tutorials)
 
 ## Mathematical Foundations:
-- [Linear Algebra](#Linear\ Algebra)
-- [Probability](#Probability)
-- [Calculus](#Calculus)
-- [Optimization Theory](#Optimization_Theory)
-- [Information Theory](#Information_Theory)
-- [Discrete Mathematics](#Discrete_Mathematics)
-- [Statistics](#Statistics)
+- Linear Algebra:
+  This branch of Math is crucial for understanding the mechanism of Neural Networks which are the norm for NLP methodologies in nowadays State-of-The-Art.
 
-You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.
-### Linear Algebra:
+Resource                    | Difficulty     | Prerequisites
+------------------------- | --------------- | ----------------
+MIT Gilbert Strang 2005 Linear Algebra | ![50%](https://progress-bar.dev/50) | as
+
+- Probability
+- Calculus
+- Optimization Theory
+- Information Theory
+- Discrete Mathematics
+- Statistics
+
+
 
