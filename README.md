@@ -24,7 +24,8 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
    - [Probability](#Probability) 
    - [Calculus](#Calculus)
    - [Optimization Theory](#Optimization-Theory)
-- [Tutorials](#tutorials)
+- [Machine Learning](#Machine-Learning)
+- [Deep Learning](#Deep-Learning)
 
 ## Mathematical Foundations:
 The Mathematical Foundation part is for all Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision and so on. AI is heavily math-theory based so a solid foundation is essential.
@@ -112,6 +113,27 @@ Resource                    | Difficulty     | Relevance
 
 </details>
 
+### Machine Learning
+
+``` TODO ```
+
+### Deep Learning 
+
+One of the major breakthroughs in the field of intersection between Artificial Intelligence and Computer Science. It lead to countless advances in technology and considered the standard way to do Artificial Intelligence.
+
+Resource                    | Difficulty 
+------------------------- | ---------------
+[![ForTheBadge Any-baba](http://ForTheBadge.com/images/badges/babamama.svg)](https://GitHub.com/Naereen/)
+<details>
+  
+  <summary> 📉 </summary>
+  
+
+<!--START_SECTION:activity--> 
+
+ <!--END_SECTION:activity-->
+
+</details>
 [boyd]: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 [cmuopti]: https://www.youtube.com/watch?v=Di9f47LAzHQ&list=PLRPU00LaonXQ27RBcq6jFJnyIbGw5azOI
 [cmuadvopti]: https://www.youtube.com/watch?v=yBO4E1FARaA&list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d
