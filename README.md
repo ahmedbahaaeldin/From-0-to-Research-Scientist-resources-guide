@@ -79,6 +79,7 @@ Resource                    | Difficulty     | Relevance
 [Strang's Overview of Calculus][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
 [MultiVariable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
 [Princeton University Multivariable Calculus 2013][princeton]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[Calculus Book by Stewart][calcbok]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) ![25%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
 [Mathematics for Machine Learning Book: Chapter 5][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
 
 
@@ -90,6 +91,7 @@ Resource                    | Difficulty     | Relevance
 - Discrete Mathematics
 - Statistics
 
+[calcbok]: http://index-of.co.uk/Mathematics/Calculus%20-%20J.%20Stewart.pdf
 [princeton]: https://www.youtube.com/watch?v=uDByROsGzuk&list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28
 [multi07]: https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38
 [strangcalc]: https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318
