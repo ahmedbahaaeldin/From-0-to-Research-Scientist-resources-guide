@@ -23,7 +23,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
    - [Linear Algebra](#Linear-Algebra) 
    - [Probability](#Probability) 
    - [Calculus](#Calculus)
-   - 
+   - [Optimization Theory](#Optimization-Theory)
 - [Tutorials](#tutorials)
 
 ## Mathematical Foundations:
@@ -53,7 +53,7 @@ Resource                    | Difficulty     | Relevance
   <summary>:atom: Probability:</summary>
   
 <!--START_SECTION:activity-->  
-
+### Probability
 Most of Natural Language Processing and Machine Learning Algorithms are based on Probability theory. So this branch is extremely important for grasping how old methods work.
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
@@ -71,6 +71,8 @@ Resource                    | Difficulty     | Relevance
 <details>
   <summary>:triangular_ruler: Calculus:</summary>
   
+### Calculus
+
 <!--START_SECTION:activity--> 
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | --------------------------
@@ -90,6 +92,7 @@ Resource                    | Difficulty     | Relevance
 <details>
   <summary> 📉 Optimization Theory:</summary>
   
+ ### Optimization Theory
 <!--START_SECTION:activity--> 
 -Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | --------------------------
