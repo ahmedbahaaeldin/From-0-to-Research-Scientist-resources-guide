@@ -28,7 +28,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 
 Resource                    | Difficulty     | Prerequisites
 ------------------------- | --------------- | ----------------
-MIT Gilbert Strang 2005 Linear Algebra | ![50%](https://progress-bar.dev/50) | as
+MIT Gilbert Strang 2005 Linear Algebra | ![50%](https://progress-bar.dev/100) | as
 
 - Probability
 - Calculus
