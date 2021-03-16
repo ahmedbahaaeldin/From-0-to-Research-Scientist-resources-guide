@@ -127,6 +127,7 @@ One of the major breakthroughs in the field of intersection between Artificial I
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
+[Deep Learning Book by Ian Goodfellow 📚][Ian] |![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [UCL Deepmind Deep Learning 🎥][ucl2020] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Advanced Talks by Deep Learning Pioneers 🎥][talkie] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Stanford Autumn 2018 Deep Learning Lectures 🎥][18standeep] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
@@ -148,6 +149,7 @@ Resource                    | Difficulty Level
 [Fast.ai Deep Learning From Foundations 🎥][fast2] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 
 
+[Ian]: https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf
 [fast2]: https://course19.fast.ai/part2
 [fast1]: https://course.fast.ai/
 [abdeeladv]: https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP
