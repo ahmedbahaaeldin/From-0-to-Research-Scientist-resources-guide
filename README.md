@@ -6,7 +6,7 @@
 
 
   
-  **From Zero to Natural Language Processing Engineer full resources guide. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
+  **<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">From Zero to Natural Language Processing Engineer full resources guide. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
   
   
   ![NLP Guide](https://img.shields.io/badge/NLP-Guide-brightgreen.svg)
@@ -25,6 +25,8 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 - [Tutorials](#tutorials)
 
 ## Mathematical Foundations:
+The Mathematical Foundation part is for all Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision and so on. AI is heavily math-theory based so a solid foundation is essential.
+
 <details>
   <summary>:infinity: Linear Algebra:</summary>
   
@@ -63,7 +65,16 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
 
 </details>
 
-- Calculus
+<details>
+  <summary>:triangular_ruler: Calculus:</summary>
+  
+<!--START_SECTION:activity--> 
+Resource                    | Difficulty     | Relevance to NLP | Relevance to Deep Learning
+------------------------- | --------------- | ---- | ----------------------
+[
+ <!--END_SECTION:activity-->
+
+</details>
 - Optimization Theory
 - Information Theory
 - Discrete Mathematics
