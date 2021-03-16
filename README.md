@@ -42,6 +42,7 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
 [James Hamblin Awesome Lecture Series][James_Hamblin] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
 [3Blue1Brown Essence of Linear Algebra][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
 [Mathematics For Machine Learning Specialization: Linear Algebra][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
+[Matrix Methods for Linear Algebra for Gilber Strang UPDATED!][matrixmethods] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
   <!--END_SECTION:activity-->
 
 </details>
@@ -71,7 +72,15 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
 <!--START_SECTION:activity--> 
 Resource                    | Difficulty     | Relevance to NLP | Relevance to Deep Learning
 ------------------------- | --------------- | ---- | ----------------------
-[
+[Essence of Calculus by 3Blue1Brown][bluecal]| <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span></div><span>☆</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![Deep Learning](https://progress-bar.dev/100)
+[Single Variable Calculus MIT 2007][single07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
+[Strang's Overview of Calculus][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
+[Single Variable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
+[MultiVariable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
+[Princeton University Multivariable Calculus 2013][princeton]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
+[Mathematics for Machine Learning Book: Chapter 5][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/50)
+
+
  <!--END_SECTION:activity-->
 
 </details>
@@ -80,6 +89,12 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
 - Discrete Mathematics
 - Statistics
 
+[princeton]: https://www.youtube.com/watch?v=uDByROsGzuk&list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28
+[multi07]: https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38
+[strangcalc]: https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318
+[single07]: https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1
+[matrixmethods]: https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
+[bluecal]: https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x
 [probBook]: http://www.seyedkalali.com/wp-content/uploads/2016/11/A-First-Course-in-Probability-8th-ed.-Sheldon-Ross.pdf
 [stanfordprobgraph]: https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i
 [cmuprob]: https://www.youtube.com/watch?v=oqvdH_8lmCA&list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn
