@@ -29,7 +29,9 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 ## Mathematical Foundations:
 The Mathematical Foundation part is for all Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision and so on. AI is heavily math-theory based so a solid foundation is essential.
 
-### Linear Algebra <details>
+### Linear Algebra 
+
+<details>
   <summary>:infinity:</summary>
   
 <!--START_SECTION:activity-->  
@@ -52,7 +54,7 @@ Resource                    | Difficulty     | Relevance
 ### Probability
 
 <details>
-  <summary>:atom: Resources: </summary>
+  <summary>:atom: </summary>
   
 <!--START_SECTION:activity-->  
 
@@ -73,7 +75,7 @@ Resource                    | Difficulty     | Relevance
 ### Calculus
 
 <details>
-  <summary>:triangular_ruler: Resources :</summary>
+  <summary>:triangular_ruler:</summary>
   
 
 
@@ -96,7 +98,7 @@ Resource                    | Difficulty     | Relevance
  ### Optimization Theory
  
 <details>
-  <summary> 📉 Resources:</summary>
+  <summary> 📉 </summary>
   
 
 <!--START_SECTION:activity--> 
