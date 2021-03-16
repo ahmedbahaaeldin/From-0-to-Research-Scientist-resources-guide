@@ -29,7 +29,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 Resource                    | Difficulty     | Relevance to Natural Language Processing | Relevance to Deep Learning
 ------------------------- | --------------- | ---------------- | ---------------------------
 [MIT Gilbert Strang 2005 Linear Algebra][gilbertStrang] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50) | ![100%](https://progress-bar.dev/100)
-[Linear Algebra 4th Edition by Friedberg][Friedberg]
+[Linear Algebra 4th Edition by Friedberg][Friedberg] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50) | ![100%](https://progress-bar.dev/100)
 
   <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>
   <div class="star-ratings-bottom"><span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>
