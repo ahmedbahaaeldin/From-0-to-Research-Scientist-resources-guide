@@ -113,11 +113,15 @@ Resource                    | Difficulty     | Relevance
 
 </details>
 
-### Machine Learning
+-------------------------------------------------------------------------------- 
+
+## Machine Learning
 
 ``` TODO ```
 
-### Deep Learning 
+-------------------------------------------------------------------------------- 
+
+## Deep Learning 
 
 One of the major breakthroughs in the field of intersection between Artificial Intelligence and Computer Science. It lead to countless advances in technology and considered the standard way to do Artificial Intelligence.
 
