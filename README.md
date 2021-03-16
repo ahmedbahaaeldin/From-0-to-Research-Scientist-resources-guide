@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="source/images/nlp.png" width="25%"> 
+  <img src="sources/images/nlp.png" width="25%"> 
     
 
 
