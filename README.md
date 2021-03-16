@@ -123,17 +123,8 @@ One of the major breakthroughs in the field of intersection between Artificial I
 
 Resource                    | Difficulty 
 ------------------------- | ---------------
-[![ForTheBadge Any-baba](http://ForTheBadge.com/images/badges/babamama.svg)](https://GitHub.com/Naereen/)
-<details>
-  
-  <summary> 📉 </summary>
-  
+|![](https://progress-bar.dev/100/?title=Introductory) 
 
-<!--START_SECTION:activity--> 
-
- <!--END_SECTION:activity-->
-
-</details>
 [boyd]: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 [cmuopti]: https://www.youtube.com/watch?v=Di9f47LAzHQ&list=PLRPU00LaonXQ27RBcq6jFJnyIbGw5azOI
 [cmuadvopti]: https://www.youtube.com/watch?v=yBO4E1FARaA&list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d
