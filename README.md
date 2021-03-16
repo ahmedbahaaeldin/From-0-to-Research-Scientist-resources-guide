@@ -25,6 +25,10 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 - [Tutorials](#tutorials)
 
 ## Mathematical Foundations:
+<details>
+  <summary>⚗️ Linear Algebra:</summary>
+  
+<!--START_SECTION:activity-->  
 ### Linear Algebra:
   This branch of Math is crucial for understanding the mechanism of Neural Networks which are the norm for NLP methodologies in nowadays State-of-The-Art.
 
@@ -36,12 +40,15 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
 [James Hamblin Awesome Lecture Series][James_Hamblin] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
 [3Blue1Brown Essence of Linear Algebra][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
 [Mathematics For Machine Learning Specialization: Linear Algebra][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
+  <!--END_SECTION:activity-->
+
+</details>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:atom: Probability:</summary>
   
 <!--START_SECTION:activity-->  
-### Probability:
+
 Most of Natural Language Processing and Machine Learning Algorithms are based on Probability theory. So this branch is extremely important for grasping how old methods work.
 Resource                    | Difficulty     | Relevance to NLP | Relevance to Deep Learning
 ------------------------- | --------------- | ---- | ---------------------------
@@ -55,6 +62,7 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
   <!--END_SECTION:activity-->
 
 </details>
+
 - Calculus
 - Optimization Theory
 - Information Theory
