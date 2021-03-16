@@ -9,7 +9,7 @@
   **<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">From Zero to Research Scientist full resources guide. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
   
   
-  ![Full Guide](https://img.shields.io/badge/NLP-Guide-brightgreen.svg)
+  ![Full Guide](https://img.shields.io/badge/FullAI-Guide-brightgreen.svg)
   ![Version 0.0.1](https://img.shields.io/badge/Version-0.0.1-blue.svg)
 </div>
 
