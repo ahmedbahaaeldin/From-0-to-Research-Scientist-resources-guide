@@ -38,7 +38,7 @@ The Mathematical Foundation part is for all Artificial Intelligence branches suc
 
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
-[MIT Gilbert Strang 2005 Linear Algebra][gilbertStrang] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=ffd700) ![75%](https://progress-bar.dev/75/?title=Computer+Vision)
+[MIT Gilbert Strang 2005 Linear Algebra][gilbertStrang] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=ffd700) ![75%](https://progress-bar.dev/75/?title=Computer+Vision&color=ff0101)
 [Linear Algebra 4th Edition by Friedberg][Friedberg] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
 [Mathematics for Machine Learning Book: Chapter 2][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=ffd700)
 [James Hamblin Awesome Lecture Series][James_Hamblin] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
