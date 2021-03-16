@@ -26,17 +26,13 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 - Linear Algebra:
   This branch of Math is crucial for understanding the mechanism of Neural Networks which are the norm for NLP methodologies in nowadays State-of-The-Art.
 
-Resource                    | Difficulty     | Prerequisites
-------------------------- | --------------- | ----------------
-MIT Gilbert Strang 2005 Linear Algebra | ![50%](https://progress-bar.dev/100) | as
+Resource                    | Difficulty     | Relevance to Natural Language Processing | Relevance to Deep Learning
+------------------------- | --------------- | ---------------- | ---------------------------
+MIT Gilbert Strang 2005 Linear Algebra | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50) | ![100%](https://progress-bar.dev/100)
 
-<div class="rating" data-rate="1">
-  <i class="star-1">★</i>
-  <i class="star-2">★</i>
-  <i class="star-3">★</i>
-  <i class="star-4">★</i>
-  <i class="star-5">★</i>
-</div>
+  <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>
+  <div class="star-ratings-bottom"><span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>
+  
 - Probability
 - Calculus
 - Optimization Theory
