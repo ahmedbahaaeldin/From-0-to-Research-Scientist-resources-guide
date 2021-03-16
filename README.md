@@ -72,15 +72,14 @@ Resource                    | Difficulty     | Relevance
   <summary>:triangular_ruler: Calculus:</summary>
   
 <!--START_SECTION:activity--> 
-Resource                    | Difficulty     | Relevance to NLP | Relevance to Deep Learning
-------------------------- | --------------- | ---- | ----------------------
-[Essence of Calculus by 3Blue1Brown][bluecal]| <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span></div><span>☆</span></div><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![Deep Learning](https://progress-bar.dev/100)
-[Single Variable Calculus MIT 2007][single07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><<span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
-[Strang's Overview of Calculus][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
-[Single Variable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
-[MultiVariable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![75%](https://progress-bar.dev/75)
-[Princeton University Multivariable Calculus 2013][princeton]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
-[Mathematics for Machine Learning Book: Chapter 5][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![Deep Learning](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/50)
+Resource                    | Difficulty     | Relevance 
+------------------------- | --------------- | --------------------------
+[Essence of Calculus by 3Blue1Brown][bluecal]| <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span></div><span>☆</span></div><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
+[Single Variable Calculus MIT 2007][single07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><<span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
+[Strang's Overview of Calculus][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[MultiVariable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[Princeton University Multivariable Calculus 2013][princeton]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[Mathematics for Machine Learning Book: Chapter 5][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
 
 
  <!--END_SECTION:activity-->
