@@ -21,3 +21,13 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 ## Contents:
 - [Mathematical Foundation](#Mathematical_Foundation)
 - [Tutorials](#tutorials)
+
+## Mathematical Foundations:
+- [Linear Algebra](#Linear_Algebra)
+- [Probability](#Probability)
+- [Calculus](#Calculus)
+- [Optimization Theory](#Optimization Theory)
+- [Information Theory](#Information Theory)
+- [Discrete Mathematics](#Discrete Mathematics)
+- [Statistics](#Statistics)
+
