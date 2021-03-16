@@ -20,6 +20,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 
 ## Contents:
 - [Mathematical Foundation](#Mathematical_Foundation)
+   - Linear Algebra 
 - [Tutorials](#tutorials)
 
 ## Mathematical Foundations:
