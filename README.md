@@ -123,7 +123,9 @@ One of the major breakthroughs in the field of intersection between Artificial I
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
-|!![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+asd |![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+![Introductory](https://img.shields.io/badge/Level-Introductory-yellow.svg)
+![Introductory](https://img.shields.io/badge/Level-Introductory-red.svg)
 
 [boyd]: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 [cmuopti]: https://www.youtube.com/watch?v=Di9f47LAzHQ&list=PLRPU00LaonXQ27RBcq6jFJnyIbGw5azOI
