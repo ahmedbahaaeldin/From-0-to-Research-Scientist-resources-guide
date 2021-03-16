@@ -26,6 +26,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
    - [Optimization Theory](#Optimization-Theory)
 - [Machine Learning](#Machine-Learning)
 - [Deep Learning](#Deep-Learning)
+- [Reinforcement Learning](#Reinforcement-Learning)
 
 ## Mathematical Foundations:
 The Mathematical Foundation part is for all Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision and so on. AI is heavily math-theory based so a solid foundation is essential.
