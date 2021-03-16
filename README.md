@@ -123,10 +123,44 @@ One of the major breakthroughs in the field of intersection between Artificial I
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
-asd |![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-![Introductory](https://img.shields.io/badge/Level-Introductory-yellow.svg)
-![Introductory](https://img.shields.io/badge/Level-Introductory-red.svg)
+[UCL Deepmind Deep Learning][ucl2020] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Advanced Talks by Deep Learning Pioneers][talkie] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Stanford Autumn 2018 Deep Learning Lectures][18standeep] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[FAU Deep Learning 2020 Series][fau] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[CMU Deep Learning course 2020][cmudeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[Stanford Convolutional Neural Network 2017][stanfcnn] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Oxford Deep Learning Awesome Lectures 2015][oxforddeep] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Stanford NLP with Deep Learning 2019][stanfordnlp2019] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Deep Learning from Probability and Statistics POV][alideep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[Advanced Deep Learning UCL 2017 course + Reinforcement Learning][ucladvrein] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Deep Learning UC Berkley 2020 Course][berkley2020] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[NYU Deep Learning with Pytorch hands on][DeepPy] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Classic Jeoffrey Hinton Old course OUTDATED][jeoff] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Pieter Abdeel Deep Unsupervised Learning][abdeeladv] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Hugo Larochelle Deep Learning series][hugodeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[Deep Learning Book Explanation Series][deepbookexp] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Deep Learning Introduction by Durham University][Durham] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 
+
+
+
+[abdeeladv]: https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP
+[durham]: https://www.youtube.com/watch?v=s2uXPz3wyCk&list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57
+[deepbookexp]: https://www.youtube.com/watch?v=vi7lACKOUao&list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b
+[hugodeep]: https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+[jeoff]: https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
+[DeepPy]: https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+[berkley2020]: https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW
+[ucladvrein]: https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+[alideep]: https://www.youtube.com/watch?v=fyAZszlPphs&list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE
+[stanfordnlp2019]: https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
+[oxforddeep]: https://www.youtube.com/watch?v=PlhFWT7vAEw&list=RDQMa66mIb9tImc&start_radio=1
+[stanfcnn]: https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+[cmudeep]: https://www.youtube.com/watch?v=0Oqpax2Q2hc&list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe
+[fau]: https://www.youtube.com/watch?v=p-_Stl0t3kU&list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj
+[18standeep]: https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+[talkie]: https://www.youtube.com/watch?v=vFYkyk_GmWM&list=PLhb1t0L7sKy2q7on_7dpgOACs3qpNbfkR&index=2
+[ucl2020]: https://www.youtube.com/watch?v=7R52wiUgxZI&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
 [boyd]: https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
 [cmuopti]: https://www.youtube.com/watch?v=Di9f47LAzHQ&list=PLRPU00LaonXQ27RBcq6jFJnyIbGw5azOI
 [cmuadvopti]: https://www.youtube.com/watch?v=yBO4E1FARaA&list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d
