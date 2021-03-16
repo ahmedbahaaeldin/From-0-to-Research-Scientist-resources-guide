@@ -69,7 +69,7 @@ Resource                    | Difficulty     | Relevance
 </details>
 
 <details>
-  <summary>:triangular_ruler: Calculus:</summary>
+  <summary>:triangular_ruler: ### Calculus:</summary>
   
 ### Calculus
 
