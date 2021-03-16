@@ -23,7 +23,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 - [Tutorials](#tutorials)
 
 ## Mathematical Foundations:
-- Linear Algebra:
+### Linear Algebra:
   This branch of Math is crucial for understanding the mechanism of Neural Networks which are the norm for NLP methodologies in nowadays State-of-The-Art.
 
 Resource                    | Difficulty     | Relevance to NLP | Relevance to Deep Learning
