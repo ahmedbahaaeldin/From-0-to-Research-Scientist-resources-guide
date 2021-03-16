@@ -23,7 +23,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 - [Tutorials](#tutorials)
 
 ## Mathematical Foundations:
-- [Linear Algebra](#Linear_Algebra)
+- [Linear Algebra](#Linear\ Algebra)
 - [Probability](#Probability)
 - [Calculus](#Calculus)
 - [Optimization Theory](#Optimization_Theory)
