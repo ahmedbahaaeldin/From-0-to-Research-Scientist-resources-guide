@@ -74,8 +74,8 @@ Resource                    | Difficulty     | Relevance
 <!--START_SECTION:activity--> 
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | --------------------------
-[Essence of Calculus by 3Blue1Brown][bluecal]| <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span></div><span>☆</span></div><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
-[Single Variable Calculus MIT 2007][single07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><<span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
+[Essence of Calculus by 3Blue1Brown][bluecal]| <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span></div><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
+[Single Variable Calculus MIT 2007][single07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
 [Strang's Overview of Calculus][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
 [MultiVariable Calculus MIT 2007][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
 [Princeton University Multivariable Calculus 2013][princeton]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
