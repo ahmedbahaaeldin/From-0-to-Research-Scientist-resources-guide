@@ -21,6 +21,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 ## Contents:
 - [Mathematical Foundation](#Mathematical-Foundations)
    - [Linear Algebra](#Linear-Algebra) 
+   - [Probability](#Probability) 
 - [Tutorials](#tutorials)
 
 ## Mathematical Foundations:
@@ -37,13 +38,22 @@ Resource                    | Difficulty     | Relevance to NLP | Relevance to D
 [Mathematics For Machine Learning Specialization: Linear Algebra][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![0%](https://progress-bar.dev/0) | ![100%](https://progress-bar.dev/100)
 
   
-- Probability
+### Probability:
+Most of Natural Language Processing and Machine Learning Algorithms are based on Probability theory. So this branch is extremely important for grasping how old methods work.
+Resource                    | Difficulty     | Relevance to NLP | Relevance to Deep Learning
+------------------------- | --------------- | ---- | ---------------------------
+[Harvard Probability and Statistics Course][harvard] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![100%](https://progress-bar.dev/100) | ![75%](https://progress-bar.dev/75)
+[MIT Probability Course 2011][mitprob11] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75) | ![75%](https://progress-bar.dev/75)
+[MIT Probability Course 2018][mitprob18] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆<span>☆</span></div>| ![75%](https://progress-bar.dev/75) | ![75%](https://progress-bar.dev/75)
 - Calculus
 - Optimization Theory
 - Information Theory
 - Discrete Mathematics
 - Statistics
 
+[mitprob18]: https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
+[mitprob11]: https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
+[harvard]: https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 [MMLLA]: https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
 [3blue]: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 [gilbertStrang]: https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D
