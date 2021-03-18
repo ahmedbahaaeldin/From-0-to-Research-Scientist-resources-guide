@@ -146,7 +146,6 @@ Resource                    | Difficulty Level
 [introSL]: https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf
 [patternML]:http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 [eesl]: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
-[Machine Learning: A Probalisitic Perspective
 [fullmmlbook]: https://mml-book.com/
 [ubc2013]:https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
 [mitfallslt]: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O
