@@ -118,9 +118,16 @@ Resource                    | Difficulty     | Relevance
 
 ## Machine Learning
 
-``` TODO ```
+Considered a fancy name for Statistical models where its main goal is to learn from data for several usages. It is considered highly recommended to master these statistical techniques before Research as most of research is inspired by most of the Algorithms.
+
+Resource                    | Difficulty Level 
+------------------------- | ---------------
+[Berkley CS188 Introduction to AI course][cs188]
+
 
 -------------------------------------------------------------------------------- 
+
+[cs188]: https://inst.eecs.berkeley.edu/~cs188/fa18/
 
 ## Deep Learning 
 
