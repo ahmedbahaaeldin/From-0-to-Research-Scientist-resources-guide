@@ -63,16 +63,19 @@ Resource                    | Difficulty     | Relevance
 Most of Natural Language Processing and Machine Learning Algorithms are based on Probability theory. So this branch is extremely important for grasping how old methods work.
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
-[Harvard Probability and Statistics Course 🎥][harvard] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
+[Joe Blitzstein Harvard Probability and Statistics Course 🎥][harvard] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
 [MIT Probability Course 2011 Lecture videos 🎥][mitprob11] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![75%](https://progress-bar.dev/75/?title=Natural+Language+Processing&color=ff69b4) 
 [MIT Probability Course 2018 short videos UPDATED! 🎥][mitprob18] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆<span>☆</span></div>| ![25%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
 [Mathematics for Machine Learning Book: Chapter 6 📘][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Natural+Language+Processing&color=ff69b4) 
  [Probalistic Graphical Models CMU Advanced 🎥][cmuprob] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
 [Probalistic Graphical Models Stanford Daphne Advanced 🎥][stanfordprobgraph] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![25%](https://progress-bar.dev/25/?title=Natural+Language+Processing&color=ff69b4) 
  [A First Course In Probability Book by Ross 📘][probBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
+ [Joe Blitzstein Harvard Professor Probability Awesome Book 📘][harvBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
   <!--END_SECTION:activity-->
 
 </details>
+
+[harvBook]: https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view
 
 ### Calculus
 
