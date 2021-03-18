@@ -122,21 +122,32 @@ Considered a fancy name for Statistical models where its main goal is to learn f
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
-[Berkley CS188 Introduction to AI course][cs188] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-[MIT Classic AI course taught by Prof. Patrick H. Winston][mitai] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-[Stanford AI course 2018][stai18] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[California Instuite of Technology Learning from Data course][caltldc]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[CMU Machine Learning 2015 10-601][cmuml2015]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[CMU Statistical Machine Learning 10-702][cmu702]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Information Theory, Pattern Recognition ML course 2012][PR2012]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Large Scale Machine Learning Toronto University 2015][toronto2015]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Algorithmic Aspects of Machine Learning MIT][Mitaspects]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[MIT Course 9.520 - Statistical Learning Theory and Applications, Fall 2015][mitfallslt]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Undergraduate Machine Learning Course University of British Columbia 2013][ubc2013]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[Mathematics for Machine Learning Part 2 📚][fullmmlbook] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Pattern Recognition and Machine Leanring📚][patternML]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Elements of Statistical Learning 📚][eesl]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Introduction to Statistical Learning  📚][introSL] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[Machine Learning: A Probalisitic Perspective 📚][murphyml]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Berkley CS188 Introduction to AI course 🎥][cs188] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[MIT Classic AI course taught by Prof. Patrick H. Winston 🎥][mitai] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[Stanford AI course 2018 🎥][stai18] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[California Instuite of Technology Learning from Data course 🎥][caltldc]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[CMU Machine Learning 2015 10-601 🎥][cmuml2015]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[CMU Statistical Machine Learning 10-702 🎥][cmu702]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Information Theory, Pattern Recognition ML course 2012 🎥][PR2012]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Large Scale Machine Learning Toronto University 2015 🎥][toronto2015]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Algorithmic Aspects of Machine Learning MIT 🎥][Mitaspects]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[MIT Course 9.520 - Statistical Learning Theory and Applications, Fall 2015 🎥][mitfallslt]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Undergraduate Machine Learning Course University of British Columbia 2013 🎥][ubc2013]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 
 
 -------------------------------------------------------------------------------- 
 
+[murphyml]: http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf
+[introSL]: https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf
+[patternML]:http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
+[eesl]: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
+[Machine Learning: A Probalisitic Perspective
+[fullmmlbook]: https://mml-book.com/
 [ubc2013]:https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
 [mitfallslt]: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O
 [Mitaspects]: https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx
