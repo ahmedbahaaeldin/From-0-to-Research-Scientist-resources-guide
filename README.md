@@ -117,18 +117,38 @@ Resource                    | Difficulty     | Relevance
 -------------------------------------------------------------------------------- 
 
 ## Machine Learning
-
+|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 Considered a fancy name for Statistical models where its main goal is to learn from data for several usages. It is considered highly recommended to master these statistical techniques before Research as most of research is inspired by most of the Algorithms.
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
-[Berkley CS188 Introduction to AI course][cs188]
+[Berkley CS188 Introduction to AI course][cs188] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[MIT Classic AI course taught by Prof. Patrick H. Winston][mitai] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[Stanford AI course 2018][stai18] ||![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[California Instuite of Technology Learning from Data course][caltldc]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[CMU Machine Learning 2015 10-601][cmuml2015]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[CMU Statistical Machine Learning 10-702][cmu702]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Information Theory, Pattern Recognition ML course 2012][PR2012]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Large Scale Machine Learning Toronto University 2015][toronto2015]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Algorithmic Aspects of Machine Learning MIT][Mitaspects]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[MIT Course 9.520 - Statistical Learning Theory and Applications, Fall 2015][mitfallslt]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Undergraduate Machine Learning Course University of British Columbia 2013][ubc2012]![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 
 
 -------------------------------------------------------------------------------- 
-
+[ubc2013]:https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
+[mitfallslt]: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O
+[Mitaspects]: https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx
+[toronto2015]:https://video-archive.fields.utoronto.ca/view/2800
+[PR2012]: http://videolectures.net/course_information_theory_pattern_recognition/
+[cmu702]: https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r
+[cmuml2015]: http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
+[caltldc]: https://work.caltech.edu/lectures.html
 [cs188]: https://inst.eecs.berkeley.edu/~cs188/fa18/
-
+[mitai]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/
+[stai18]: https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX
 ## Deep Learning 
 
 One of the major breakthroughs in the field of intersection between Artificial Intelligence and Computer Science. It lead to countless advances in technology and considered the standard way to do Artificial Intelligence.
