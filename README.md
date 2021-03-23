@@ -189,6 +189,14 @@ Resource                    | Difficulty Level
 [Fast.ai Practical Deep Learning 🎥][fast1] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Fast.ai Deep Learning From Foundations 🎥][fast2] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 
+--------------------------------------------------------------------------------  
+
+## Reinforcement Learning 
+
+It is a sub-field of AI which focuses on learning by observation/rewards.
+
+Resource                    | Difficulty Level 
+------------------------- | ---------------
 
 [Ian]: https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf
 [fast2]: https://course19.fast.ai/part2
