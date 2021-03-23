@@ -193,15 +193,23 @@ Resource                    | Difficulty Level
 
 ## Reinforcement Learning 
 
-It is a sub-field of AI which focuses on learning by observation/rewards.
+It is a sub-field of AI which focuses on learning by observation/rewards. 
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
 [Introduction to Reinforcement Learning 📚][rlbook] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [David Silver Deep Mind Introductory Lectures 🎥][dsIntrodu] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Stanford 2018 cs234 Reinforcement Learning🎥 ][cs234] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Stanford 2019 cs330 Meta Learning advanced course 🎥][cs330] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Sergie Levine 2018 UC Berkley Lecture Videos 🎥][ucb2018rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Waterloo cs885 Reinforcement Learing 🎥][cs885] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Sergie Levine 2020 Deep Reinforcement Learning 🎥][sergie2020rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 
 
+[sergie2020rl]: https://www.youtube.com/watch?v=JHrlF10v2Og&list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
+[cs885]: https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc
+[ucb2018rl]: https://www.youtube.com/watch?v=ue9aS17d5iI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=2
+[cs330]: https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
 [cs234]: https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
 [dsIntrodu]: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 [rlbopk]: https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
