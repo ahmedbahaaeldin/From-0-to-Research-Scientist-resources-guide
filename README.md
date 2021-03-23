@@ -205,6 +205,7 @@ Resource                    | Difficulty Level
 [Sergie Levine 2018 UC Berkley Lecture Videos 🎥][ucb2018rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Waterloo cs885 Reinforcement Learing 🎥][cs885] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Sergie Levine 2020 Deep Reinforcement Learning 🎥][sergie2020rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Reinforcement Learning Specialization Coursea GOLDEN courses🎥 (Though it is not free but you can apply for financial aid)][courseraRL] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 
 --------------------------------------------------------------------------------  
 
@@ -215,7 +216,7 @@ It is a sub-field of AI which focuses on the interpretation of Human Language.
 ### TODO
 
 
-
+[courseraRL]: https://www.coursera.org/specializations/reinforcement-learning
 [sergie2020rl]: https://www.youtube.com/watch?v=JHrlF10v2Og&list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 [cs885]: https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc
 [ucb2018rl]: https://www.youtube.com/watch?v=ue9aS17d5iI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=2
