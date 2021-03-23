@@ -197,7 +197,14 @@ It is a sub-field of AI which focuses on learning by observation/rewards.
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
+[Introduction to Reinforcement Learning 📚][rlbook] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[David Silver Deep Mind Introductory Lectures 🎥][dsIntrodu] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[Stanford 2018 cs234 Reinforcement Learning🎥 ][cs234] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 
+
+[cs234]: https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+[dsIntrodu]: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+[rlbopk]: https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 [Ian]: https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf
 [fast2]: https://course19.fast.ai/part2
 [fast1]: https://course.fast.ai/
