@@ -27,6 +27,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 - [Machine Learning](#Machine-Learning)
 - [Deep Learning](#Deep-Learning)
 - [Reinforcement Learning](#Reinforcement-Learning)
+- [Natural Language Processing](#Natural-Language-Processing)
 
 ## Mathematical Foundations:
 The Mathematical Foundation part is for all Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision and so on. AI is heavily math-theory based so a solid foundation is essential.
@@ -204,6 +205,14 @@ Resource                    | Difficulty Level
 [Sergie Levine 2018 UC Berkley Lecture Videos 🎥][ucb2018rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Waterloo cs885 Reinforcement Learing 🎥][cs885] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Sergie Levine 2020 Deep Reinforcement Learning 🎥][sergie2020rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+
+--------------------------------------------------------------------------------  
+
+## Natural Language Processing
+
+It is a sub-field of AI which focuses on the interpretation of Human Language. 
+
+### TODO
 
 
 
