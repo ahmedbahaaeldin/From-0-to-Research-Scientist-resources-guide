@@ -16,7 +16,7 @@
 ## Guide description
 This guide is designated to anybody with basic programming knowledge or a computer science background interested in becoming a Research Scientist with :dart: on Deep Learning and NLP.
 
-You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down fist.
+You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down first.
 
 ## Contents:
 - [Mathematical Foundation](#Mathematical-Foundations)
