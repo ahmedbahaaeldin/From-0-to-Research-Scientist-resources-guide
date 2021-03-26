@@ -213,9 +213,26 @@ Resource                    | Difficulty Level
 
 It is a sub-field of AI which focuses on the interpretation of Human Language. 
 
-### TODO
+Resource                    | Difficulty Level 
+------------------------- | ---------------
+[Jurafsky Speech and Language Processing 📚][jurafskybook]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Christopher Manning Foundations of Statistical NLP📚][fsnlp]| ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Christopher Manning Introduction to Information Retrieval📚][manninginformationr]| ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[cs224n Natural Language Processing with Deep Learning GOLDEN 2019🎥][stanfordnlp2019] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Oxford Natural Language Processing with Deep Learning 2017🎥][oxfordnlp] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Michigan Introduction to NLP🎥][michigannlp]  | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[cs224u Natural Language Understanding 2019 🎥][stanfordnlu] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[cmu 2021 Neural Nets for NLP 2021🎥][cmunlp2021]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Jurafsky and Manning Introduction to Natural Language Processing🎥][jurafskynlp]| ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 
-
+[manninginformationr]: https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf
+[fsnlp]: https://github.com/shivamms/books/blob/master/nlp/Foundations%20of%20Statistical%20Natural%20Language%20Processing%20-%20Christopher%20D.%20Manning.pdf
+[jurafskybook]: https://web.stanford.edu/~jurafsky/slp3/
+[jurafskynlp]: https://www.youtube.com/watch?v=zQ6gzQ5YZ8o&list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ
+[cmunlp2021]: https://www.youtube.com/watch?v=vnx6M7N-ggs&list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV
+[stanfordnlu]: https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+[michigannlp]:https://www.youtube.com/watch?v=n25JjoixM3I&list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR 
+[oxfordnlp]: https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
 [courseraRL]: https://www.coursera.org/specializations/reinforcement-learning
 [sergie2020rl]: https://www.youtube.com/watch?v=JHrlF10v2Og&list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
 [cs885]: https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc
