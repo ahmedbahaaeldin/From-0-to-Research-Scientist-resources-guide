@@ -225,6 +225,20 @@ Resource                    | Difficulty Level
 [cmu 2021 Neural Nets for NLP 2021🎥][cmunlp2021]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Jurafsky and Manning Introduction to Natural Language Processing🎥][jurafskynlp]| ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 
+### Must Read NLP Papers:
+In this section, I am going to list the most influential papers that help people who want to dig deeper into the research world of NLP to catch up.
+Paper                    | Comment
+------------------------- | ---------------
+# TODO
+
+
+
+
+
+
+
+
+
 [manninginformationr]: https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf
 [fsnlp]: https://github.com/shivamms/books/blob/master/nlp/Foundations%20of%20Statistical%20Natural%20Language%20Processing%20-%20Christopher%20D.%20Manning.pdf
 [jurafskybook]: https://web.stanford.edu/~jurafsky/slp3/
