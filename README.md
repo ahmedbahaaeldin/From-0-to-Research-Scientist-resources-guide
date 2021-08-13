@@ -189,7 +189,7 @@ Resource                    | Difficulty Level
 [Deep Learning Introduction by Durham University 🎥][Durham] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Fast.ai Practical Deep Learning 🎥][fast1] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Fast.ai Deep Learning From Foundations 🎥][fast2] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-
+[Deep Learning with Python (Keras Author) 📚][keras] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 --------------------------------------------------------------------------------  
 
 ## Reinforcement Learning 
@@ -298,3 +298,4 @@ Paper                    | Comment
 [Friedberg]: https://npqke7p41z.pdcdn2.xyz/dl2.php?id=187502855&h=fe4fe4abfa10c9c6a51456cdff771ba1&u=cache&ext=pdf&n=Linear%20algebra%204th%20edition
 [mmlbook]: https://mml-book.github.io/book/mml-book.pdf
 [James_Hamblin]: https://www.youtube.com/watch?v=HAoL5fPmgrw&list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86
+[keras]: https://www.manning.com/books/deep-learning-with-python
