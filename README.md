@@ -189,7 +189,7 @@ Resource                    | Difficulty Level
 [Deep Learning Introduction by Durham University 🎥][Durham] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Fast.ai Practical Deep Learning 🎥][fast1] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Fast.ai Deep Learning From Foundations 🎥][fast2] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[Deep Learning with Python (Keras Author) 📚][keras] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Deep Learning with Python (Keras Author) 📚][keras] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 --------------------------------------------------------------------------------  
 
 ## Reinforcement Learning 
