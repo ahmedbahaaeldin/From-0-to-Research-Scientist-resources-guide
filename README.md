@@ -131,7 +131,7 @@ Resource                    | Difficulty Level
 [Elements of Statistical Learning 📚][eesl]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Introduction to Statistical Learning  📚][introSL]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 [Machine Learning: A Probalisitic Perspective 📚][murphyml]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Berkley CS188 Introduction to AI course 🎥][cs188]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[Berkeley CS188 Introduction to AI course 🎥][cs188]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 [MIT Classic AI course taught by Prof. Patrick H. Winston 🎥][mitai]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 [Stanford AI course 2018 🎥][stai18]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [California Instuite of Technology Learning from Data course 🎥][caltldc]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
@@ -180,7 +180,7 @@ Resource                    | Difficulty Level
 [Stanford NLP with Deep Learning 2019 🎥][stanfordnlp2019] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Deep Learning from Probability and Statistics POV 🎥][alideep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Advanced Deep Learning UCL 2017 course + Reinforcement Learning 🎥][ucladvrein] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Deep Learning UC Berkley 2020 Course 🎥][berkley2020] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[Deep Learning UC Berkeley 2020 Course 🎥][berkeley2020] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [NYU Deep Learning with Pytorch hands on 🎥][DeepPy] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Classic Jeoffrey Hinton Old course OUTDATED 🎥][jeoff] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Pieter Abdeel Deep Unsupervised Learning 🎥][abdeeladv] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
@@ -202,7 +202,7 @@ Resource                    | Difficulty Level
 [David Silver Deep Mind Introductory Lectures 🎥][dsIntrodu] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Stanford 2018 cs234 Reinforcement Learning🎥 ][cs234] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Stanford 2019 cs330 Meta Learning advanced course 🎥][cs330] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Sergie Levine 2018 UC Berkley Lecture Videos 🎥][ucb2018rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Sergie Levine 2018 UC Berkeley Lecture Videos 🎥][ucb2018rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Waterloo cs885 Reinforcement Learing 🎥][cs885] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Sergie Levine 2020 Deep Reinforcement Learning 🎥][sergie2020rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Reinforcement Learning Specialization Coursea GOLDEN courses🎥 (Though it is not free but you can apply for financial aid)][courseraRL] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
@@ -264,7 +264,7 @@ Paper                    | Comment
 [hugodeep]: https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 [jeoff]: https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
 [DeepPy]: https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
-[berkley2020]: https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW
+[berkeley2020]: https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW
 [ucladvrein]: https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 [alideep]: https://www.youtube.com/watch?v=fyAZszlPphs&list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE
 [stanfordnlp2019]: https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
