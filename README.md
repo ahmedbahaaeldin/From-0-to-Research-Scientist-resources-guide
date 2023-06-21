@@ -295,7 +295,7 @@ Paper                    | Comment
 [MMLLA]: https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
 [3blue]: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 [gilbertStrang]: https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D
-[Friedberg]: https://npqke7p41z.pdcdn2.xyz/dl2.php?id=187502855&h=fe4fe4abfa10c9c6a51456cdff771ba1&u=cache&ext=pdf&n=Linear%20algebra%204th%20edition
+[Friedberg]: https://www.academia.edu/43200796/Linear_Algebra
 [mmlbook]: https://mml-book.github.io/book/mml-book.pdf
 [James_Hamblin]: https://www.youtube.com/watch?v=HAoL5fPmgrw&list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86
 [keras]: https://www.manning.com/books/deep-learning-with-python
