@@ -68,8 +68,8 @@ Resource                    | Difficulty     | Relevance
 [MIT Probability Course 2011 Lecture videos 🎥][mitprob11] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![75%](https://progress-bar.dev/75/?title=Natural+Language+Processing&color=ff69b4) 
 [MIT Probability Course 2018 short videos UPDATED! 🎥][mitprob18] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆<span>☆</span></div>| ![25%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
 [Mathematics for Machine Learning Book: Chapter 6 📘][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Natural+Language+Processing&color=ff69b4) 
- [Probalistic Graphical Models CMU Advanced 🎥][cmuprob] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
-[Probalistic Graphical Models Stanford Daphne Advanced 🎥][stanfordprobgraph] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![25%](https://progress-bar.dev/25/?title=Natural+Language+Processing&color=ff69b4) 
+ [Probabilistic Graphical Models CMU Advanced 🎥][cmuprob] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
+[Probabilistic Graphical Models Stanford Daphne Advanced 🎥][stanfordprobgraph] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![25%](https://progress-bar.dev/25/?title=Natural+Language+Processing&color=ff69b4) 
  [A First Course In Probability Book by Ross 📘][probBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
  [Joe Blitzstein Harvard Professor Probability Awesome Book 📘][harvBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
   <!--END_SECTION:activity-->
@@ -130,11 +130,11 @@ Resource                    | Difficulty Level
 [Pattern Recognition and Machine Leanring📚][patternML]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Elements of Statistical Learning 📚][eesl]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Introduction to Statistical Learning  📚][introSL]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-[Machine Learning: A Probalisitic Perspective 📚][murphyml]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Machine Learning: A Probabilistic Perspective 📚][murphyml]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Berkley CS188 Introduction to AI course 🎥][cs188]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 [MIT Classic AI course taught by Prof. Patrick H. Winston 🎥][mitai]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 [Stanford AI course 2018 🎥][stai18]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[California Instuite of Technology Learning from Data course 🎥][caltldc]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[California Institute of Technology Learning from Data course 🎥][caltldc]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [CMU Machine Learning 2015 10-601 🎥][cmuml2015]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [CMU Statistical Machine Learning 10-702 🎥][cmu702]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Information Theory, Pattern Recognition ML course 2012 🎥][PR2012]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
@@ -170,7 +170,7 @@ One of the major breakthroughs in the field of intersection between Artificial I
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
 [Deep Learning Book by Ian Goodfellow 📚][Ian] |![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[UCL Deepmind Deep Learning 🎥][ucl2020] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[UCL DeepMind Deep Learning 🎥][ucl2020] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Advanced Talks by Deep Learning Pioneers 🎥][talkie] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Stanford Autumn 2018 Deep Learning Lectures 🎥][18standeep] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [FAU Deep Learning 2020 Series 🎥][fau] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
@@ -203,9 +203,9 @@ Resource                    | Difficulty Level
 [Stanford 2018 cs234 Reinforcement Learning🎥 ][cs234] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Stanford 2019 cs330 Meta Learning advanced course 🎥][cs330] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Sergie Levine 2018 UC Berkley Lecture Videos 🎥][ucb2018rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Waterloo cs885 Reinforcement Learing 🎥][cs885] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Waterloo cs885 Reinforcement Learning 🎥][cs885] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Sergie Levine 2020 Deep Reinforcement Learning 🎥][sergie2020rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Reinforcement Learning Specialization Coursea GOLDEN courses🎥 (Though it is not free but you can apply for financial aid)][courseraRL] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[Reinforcement Learning Specialization Coursera GOLDEN courses🎥 (Though it is not free but you can apply for financial aid)][courseraRL] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 
 --------------------------------------------------------------------------------  
 
